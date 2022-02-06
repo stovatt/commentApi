@@ -1,0 +1,4 @@
+.vs/
+CommentApi/bin/*
+CommentApi/obj/*
+Properties/launchSettings.json

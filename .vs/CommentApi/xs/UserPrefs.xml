@@ -1,0 +1,37 @@
+﻿<Properties StartupConfiguration="{E0B648C2-74E2-4014-ACB4-762A8C6D3D96}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="CommentApi/Models/RequestBodies/PostCommentBody.cs">
+    <Files>
+      <File FileName="CommentApi/Controllers/WeatherForecastController.cs" Line="9" Column="2" />
+      <File FileName="CommentApi/Controllers/CommentController.cs" Line="22" Column="1" />
+      <File FileName="CommentApi/Models/Comment.cs" Line="11" Column="10" />
+      <File FileName="CommentApi/Models/RequestBodies/PostCommentBody.cs" Line="1" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="CommentApi" expanded="True">
+            <Node name="CommentApi" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="RequestBodies" expanded="True">
+                  <Node name="PostCommentBody.cs" selected="True" />
+                </Node>
+              </Node>
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/sartov/Projects/CommentApi/CommentApi/Controllers/WeatherForecastController.cs" relfile="CommentApi/Controllers/WeatherForecastController.cs" line="29" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.ItemProperties.CommentApi PreferredExecutionTarget="/Applications/Safari.app" />
+  <MultiItemStartupConfigurations />
+</Properties>
